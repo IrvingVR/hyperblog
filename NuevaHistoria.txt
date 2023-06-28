@@ -1,3 +1,8 @@
 Nueva historia
 
 Etsa vez vamos a usar reset
+
+Usamos reset hard para volver al documento inicial
+
+
+Veamos que pasa con reset soft
