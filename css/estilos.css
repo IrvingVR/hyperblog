@@ -1,7 +1,5 @@
-
-
 body{
-    background:#fafafa;
+    background:#1e1f24;
     color:#333;
     text-align:center;
     font-family:Arial;
@@ -31,13 +29,9 @@ body{
     padding:0;
     text-align:left;
     border:1px solid #ddd;
-    margin:0 auto}
+    margin:0 auto}   
 
-#container h1{
-    font-size:20px}
+#container h1{font-size:20px}
 
-#post{
-    padding: 1em;
-    margin-top: 20px;
-}
-
+#post{background:#fff;
+    padding:1em}
