@@ -9,3 +9,6 @@ Pon mucha atencion al curso y recuerda Nunca pares de aprender en [**Platzi**](h
 ## El blog incluye
 
 >- ejemplos en Windows, Linux y Mac
+>- ejemplos en Windows, Linux y Mac
+>- También puedes contribuir haciendo tu pull request
+>- Disponible para cualquier persona de cualquier edad
